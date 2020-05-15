@@ -336,7 +336,7 @@ def actual_data(df):
         else:
             break
 
-
+# Final function that run all of the code.
 def main():
     while True:
         city, month, day = get_filters()
