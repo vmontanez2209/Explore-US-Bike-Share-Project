@@ -1,8 +1,8 @@
 ### Date created
-May 14th 2020
+May 14, 2020
 
 ### Project Title
-Explore US Bike Share
+Explore US Bike Share for Udacity Course
 
 ### Description
 This project was for my Udacity NanoDegree in Data Science with Python. With the project I was able to build working python code where the user can interact with the program and explore the bike share data from the three available cities.
